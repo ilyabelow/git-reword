@@ -12,7 +12,7 @@ Enter as much commit-message pairs as you need
 
 #### Example:
 
-![https://imgur.com/OGIQ5os.png](https://imgur.com/OGIQ5os.png)
+![https://imgur.com/gUbXFT1.png](https://imgur.com/gUbXFT1.png)
 
 #### Limitations:
 
@@ -34,6 +34,7 @@ for fish.
 Another way is to create a symbolic link to the script in a PATH directory of your choice:
 
 > cd ~/.local/bin
+
 > ln -s path/to/script/git-reword.py git-reword
 
 ## Requirements
